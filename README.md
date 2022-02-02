@@ -1,6 +1,6 @@
 # Alexis Bolduc
 
-![Alexis Bolduc](images/moi.jpg)
+![Alexis Bolduc](images/moi.JPG)
 
 Grand fan de rap français
 
