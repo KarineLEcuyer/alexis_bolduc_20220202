@@ -1,1 +1,3 @@
-# alexis_bolduc_20220202
+# Alexis Bolduc
+
+![Alexis Bolduc](images/moi.png)
